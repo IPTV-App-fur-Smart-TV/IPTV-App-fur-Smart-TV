@@ -1,6 +1,6 @@
 IPTV App für Smart TV – IPTV einfach auf dem Fernseher nutzen
 
-viucast.pro
+[viucast.pro](https://www.viucast.pro/)
 
 Immer mehr Zuschauer möchten Fernsehen direkt über ihren Smart TV streamen. Eine passende IPTV App für Smart TV macht das möglich, ohne dass man zwingend einen zusätzlichen Receiver benötigt. Je nach Fernseher kommen dabei unterschiedliche Apps infrage, denn Samsung, LG und Android TV verwenden verschiedene Betriebssysteme und App-Stores.
 
@@ -18,7 +18,7 @@ IPTV App für Samsung Smart TV
 
 Samsung Smart TVs verwenden je nach Modell das Betriebssystem Tizen. Dadurch unterscheidet sich die Auswahl an Apps von Android TV.
 
-Für Samsung gibt es verschiedene IPTV-Player, die direkt über den jeweiligen App-Store verfügbar sein können. Welche App tatsächlich installiert werden kann, hängt unter anderem vom TV-Modell und der Softwareversion ab.
+Für Samsung gibt es verschiedene IPTV-Player, die direkt über den jeweiligen App-Store verfügbar sein können. Welche App tatsächlich installiert werden kann, hängt unter anderem vom TV-Modell und der Softwareversion ab. https://www.viucast.pro/
 
 Für Nutzer bedeutet das:
 
